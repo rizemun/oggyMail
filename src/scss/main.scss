@@ -1,17 +1,17 @@
-@import "utils/libs";
-@import "utils/vars";
-@import "utils/mixins";
-@import "utils/fonts";
+@import 'utils/libs';
+@import 'utils/vars';
+@import 'utils/mixins';
+@import 'utils/fonts';
 
-@import "utils/modules/content";
-@import "utils/modules/preview";
-@import "utils/modules/saved-modules";
-@import "utils/modules/scroll";
-@import "utils/modules/text-field";
-@import "utils/modules/text-menu";
+@import 'utils/modules/content';
+@import 'utils/modules/preview';
+@import 'utils/modules/saved-modules';
+@import 'utils/modules/scroll';
+@import 'utils/modules/text-field';
+@import 'utils/modules/text-menu';
 
 html,
 body {
-  padding: 0;
   margin: 0;
+  padding: 0;
 }
